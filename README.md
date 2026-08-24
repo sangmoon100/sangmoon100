@@ -7,14 +7,14 @@
 ---
 
 ## 🛠 Tech Stacks (기술 스택)
-
-<img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35"> 
-<img src="https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=black" height="35"> 
-<img src="https://img.shields.io/badge/-339933?style=for-the-badge&logo=Node.js&logoColor=black" height="35"> 
-<img src="https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="35"> 
-<img src="https://img.shields.io/badge/-47A248?style=for-the-badge&logo=mongodb&logoColor=black" height="35"> 
-<img src="https://img.shields.io/badge/-6DB33F?style=for-the-badge&logo=spring&logoColor=black" height="35">
-
+<div>
+  <img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35"> 
+  <img src="https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=black" height="35"> 
+  <img src="https://img.shields.io/badge/-339933?style=for-the-badge&logo=Node.js&logoColor=black" height="35"> 
+  <img src="https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="35"> 
+  <img src="https://img.shields.io/badge/-47A248?style=for-the-badge&logo=mongodb&logoColor=black" height="35"> 
+  <img src="https://img.shields.io/badge/-6DB33F?style=for-the-badge&logo=spring&logoColor=black" height="35">
+</div>
 ---
 
 ## 📂 Featured Projects (핵심 프로젝트)
